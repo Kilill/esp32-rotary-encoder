@@ -1,3 +1,7 @@
+modified from orginal David Antliff to c++ by Kim Lilliestierna
+
+Orginal code here: https://github.com/DavidAntliff/esp32-rotary-encoder
+
 # ESP32 Rotary Encoder
 
 This project is a simple demonstration of using a rotary encoder to track relative position, with a reset switch to reset the position.
